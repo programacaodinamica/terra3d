@@ -1,0 +1,5 @@
+.DS_Store
+meshes/dock.jpg
+meshes/sala.*
+__pycache__/*
+*/__pycache__/*

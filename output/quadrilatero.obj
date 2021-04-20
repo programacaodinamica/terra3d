@@ -1,0 +1,8 @@
+mtllib sphere.mtl
+v 1 1 0
+v -1 1 0
+v -1 -1 0
+v 1 -1 0
+usemtl material_1
+f 1 2 3
+f 3 4 1
